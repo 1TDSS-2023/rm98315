@@ -16,6 +16,7 @@
     flex-basis: 300vw;
   }
 
-  .conteudo > div{
-    font-size: 3em;
+  .conteudo> div p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
   }
