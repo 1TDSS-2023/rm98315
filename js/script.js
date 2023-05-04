@@ -44,3 +44,11 @@ btn.addEventListener("click", function(){
     this.setAttribute("style", `background-color:rgb(${r}, ${g}, ${b});`);
  
 } );
+
+/*<h2 class="tit-sec">Seção de fotos</h2>*/
+
+const h2Element = document.querySelector(".tit-sec")
+
+console.log(h2Element);
+
+// quarySelectorAll()
